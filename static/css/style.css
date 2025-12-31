@@ -1,0 +1,11 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f7f7f2;
+  color: #1c1c1c;
+}
+.navbar {
+  background-color: #1f3a5f;
+}
+.card {
+  border: 1px solid #ccc;
+}
